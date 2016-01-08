@@ -33,8 +33,8 @@ $l['err_changing'] = '修改密码时遇到了错误。';
 $l['no_nonalphanumeric'] = '禁用非字母数字字符。';
 
 // Theme strings
-$l['<title>'] = 'VPS 管理';
-$l['vpsmanagement'] = 'VPS 管理';
+$l['<title>'] = 'VPS管理';
+$l['vpsmanagement'] = 'VPS管理';
 $l['advoptions'] = '高级选项';
 $l['info'] = '信息';
 $l['lv_type'] = '类别';
@@ -81,10 +81,10 @@ $l['tip_services'] = '列出运行中的服务。';
 $l['tip_slogs'] = '查看状态日志。';
 $l['tip_logs'] = '查看系统日志。';
 $l['tip_sysalerts'] = '查看关键系统警报。';
-$l['tip_bandwidth'] = '查看流量用量。';
-$l['tip_rescue'] = '救援模式。';
-$l['tip_manage_subnet'] = '添加/删除IPv6地址。';
-$l['tip_console'] = '命令行访问';
+$l['tip_bandwidth'] = '查看流量用量';
+$l['tip_rescue'] = '救援模式';
+$l['tip_manage_subnet'] = '添加/删除IPv6地址';
+$l['tip_console'] = '控制台访问';
 $l['tip_recipes'] = '方案面板';
 
 ?>
