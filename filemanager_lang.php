@@ -26,8 +26,8 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['<title>'] = 'File Manager';
-$l['nothing_in'] = 'There are no files or folder in this directory';
-$l['not_supported'] = 'The File Manager feature is not supported in this virtualization technology';
+$l['<title>'] = '文件管理';
+$l['nothing_in'] = '此目录中没有文件或文件夹';
+$l['not_supported'] = '文件夹功能不被这种虚拟化技术支持';
 
 ?>

@@ -26,14 +26,14 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['<title>'] = 'CPU information';
+$l['<title>'] = 'CPU信息';
 $l['header'] = ' CPU ';
-$l['cpuinfo'] = 'CPU Information';
-$l['totalcpu'] = 'Total CPU :'; 
-$l['cpuutilised'] = 'Utilised : ';
-$l['poweredby'] = 'Powered by : ';
-$l['graphheader'] = 'CPU Utilization';
-$l['trademarks'] = 'All respective logo used are trademarks or registered trademarks of their respective companies.';
-$l['not_supported'] = 'Current Utilization monitoring of this resource is not supported.';
+$l['cpuinfo'] = 'CPU信息';
+$l['totalcpu'] = '目前CPU：'; 
+$l['cpuutilised'] = '已使用：';
+$l['poweredby'] = '厂家：';
+$l['graphheader'] = 'CPU使用率';
+$l['trademarks'] = '使用的Logo均为各公司商标。';
+$l['not_supported'] = '不支持当前资源利用率的监测。';
 
 ?>
