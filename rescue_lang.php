@@ -26,25 +26,25 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['err_rescue_enable'] = 'There were some errors while enabling rescue mode';
-$l['err_rescue_disable'] = 'There were some errors while disabling the rescue mode';
-$l['err_downloading'] = 'There was an error downloading the rescue template';
-$l['err_delete_disk'] = 'There was an error while deleting the rescue disk';
-$l['cant_rescue'] = 'Rescue operation is not allowed when an ISO is in use. Please remove the ISO first';
+$l['err_rescue_enable'] = '启动救援模式时遇到了错误';
+$l['err_rescue_disable'] = '停用救援模式时遇到了错误';
+$l['err_downloading'] = '下载救援模板时遇到了错误';
+$l['err_delete_disk'] = '删除救援磁盘时遇到了错误';
+$l['cant_rescue'] = '当ISO被挂载时无法进行救援操作。请先移除ISO';
 
 // Theme strings
-$l['<title>'] = 'Rescue Mode';
-$l['rescue_exp'] = 'Rescue mode provides the ability to boot a small Linux environment from another disk so that you can rescue your primary linux VPS or backup files that are present on it';
-$l['enable_rescue'] = 'Enable Rescue Mode';
-$l['rescue_enabled'] = 'Rescue Mode is currently enabled.';
-$l['disable_rescue'] = 'Disable Rescue Mode';
-$l['rescue_disabled'] = 'Rescue Mode is currently disabled.';
-$l['resuce_enable_success'] = 'Rescue mode has been enabled successfully';
-$l['resuce_disable_success'] = 'Rescue mode has been disabled successfully';
-$l['rescue_enable_notify'] = 'Enabling rescue mode...';
-$l['rescue_disable_notify'] = 'Disabling rescue mode...';
-$l['root_pass'] = 'Root Password';
-$l['root_pass_conf'] = 'Confirm Password';
+$l['<title>'] = '救援模式';
+$l['rescue_exp'] = '救援模式提供从另一个磁盘启动一个小型Linux环境的能力，这样你可以拯救你的主VPS或者是其上的备份文件';
+$l['enable_rescue'] = '启动救援模式';
+$l['rescue_enabled'] = '救援模式目前已启用。';
+$l['disable_rescue'] = '停用救援模式';
+$l['rescue_disabled'] = '救援模式目前已停用。';
+$l['resuce_enable_success'] = '成功启用救援模式';
+$l['resuce_disable_success'] = '成功停用救援模式';
+$l['rescue_enable_notify'] = '正在启用救援模式……';
+$l['rescue_disable_notify'] = '正在禁用救援模式……';
+$l['root_pass'] = 'ROOT密码';
+$l['root_pass_conf'] = '确认密码';
 
 
 
