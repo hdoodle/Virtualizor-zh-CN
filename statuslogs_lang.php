@@ -26,8 +26,8 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['<title>'] = 'Status logs';
-$l['running'] = 'Running';
-$l['stopped'] = 'Stopped';
+$l['<title>'] = '状态日志';
+$l['running'] = '运行中';
+$l['stopped'] = '已停止';
 
 ?>

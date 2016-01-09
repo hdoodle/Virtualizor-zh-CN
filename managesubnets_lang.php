@@ -26,20 +26,20 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['<title>'] = 'Manage IPv6 Subnets';
-$l['done'] = 'IPs were saved successfully';
-$l['add_ipv6'] = 'Add an Ipv6 address';
-$l['add_ip_button'] = 'Add IP';
-$l['back_button'] = 'Back';
-$l['save_button'] = 'Save';
-$l['delete_confirm'] = 'Are you sure you want to delete this IPv6 address ?';
-$l['ipv6_invalid'] = 'There was some error with the IPv6 address';
+$l['<title>'] = '管理IPv6子网';
+$l['done'] = '成功保存IP';
+$l['add_ipv6'] = '添加一个IPv6地址';
+$l['add_ip_button'] = '添加IP';
+$l['back_button'] = '返回';
+$l['save_button'] = '保存';
+$l['delete_confirm'] = '确定删除此IPv6地址？';
+$l['ipv6_invalid'] = 'IPv6地址有错误';
 
-$l['ipv6_address'] = 'IPv6 Address';
-$l['ipv6_delete'] = 'Delete';
-$l['ipv6_subnet'] = 'IPv6 Subnet';
-$l['edit_subnet'] = 'Edit';
-$l['no_vps'] = 'No VPS Found';
-$l['inv_ipaddress'] = 'The IP specified doesnt belong to you';
+$l['ipv6_address'] = 'IPv6地址';
+$l['ipv6_delete'] = '删除';
+$l['ipv6_subnet'] = 'IPv6子网';
+$l['edit_subnet'] = '编辑';
+$l['no_vps'] = '没有找到VPS';
+$l['inv_ipaddress'] = '给出的IP不属于你';
 
 ?>

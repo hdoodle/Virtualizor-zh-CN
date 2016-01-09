@@ -26,20 +26,20 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['<title>'] = 'Services';
-$l['sstart'] = 'Start';
-$l['sstop'] = ' Stop';
-$l['srestart'] = 'Restart';
-$l['status'] = 'Status';
-$l['statrun'] = 'Running';
-$l['statoff'] = 'OFF';
-$l['staton'] = 'ON';
-$l['autostart'] = 'Autostart';
-$l['select'] = 'Select';
-$l['vps_is_off'] = 'The VPS is off !';
-$l['no_feature'] = 'This feature is not available !';
-$l['notice_start'] = 'The selected service(s) are being started..';
-$l['notice_stop'] = 'The selected service(s) are being stopped..';
-$l['notice_restart'] = 'The selected service(s) are being restarted..';
+$l['<title>'] = '服务';
+$l['sstart'] = '启动';
+$l['sstop'] = ' 停止';
+$l['srestart'] = '重启';
+$l['status'] = '状态';
+$l['statrun'] = '运行中';
+$l['statoff'] = '关';
+$l['staton'] = '开';
+$l['autostart'] = '自启动';
+$l['select'] = '选择';
+$l['vps_is_off'] = 'VPS已关机！';
+$l['no_feature'] = '此特性不可用！';
+$l['notice_start'] = '正在启动所选服务……';
+$l['notice_stop'] = '正在停止所选服务……';
+$l['notice_restart'] = '正在重新启动所选服务……';
 
 ?>

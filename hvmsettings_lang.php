@@ -26,21 +26,21 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['invalid_iso'] = 'The ISO you selected is invalid';
-$l['err_editing'] = 'There were some errors while saving the settings';
+$l['invalid_iso'] = '您选择的ISO无效';
+$l['err_editing'] = '保存设置时遇到了错误';
 
 // Theme strings
-$l['<title>'] = 'HVM Settings';
-$l['submit_button'] = 'Submit';
-$l['tit'] = 'HVM Settings';
-$l['done'] = 'The settings have been save successfully';
+$l['<title>'] = 'HVM设置';
+$l['submit_button'] = '提交';
+$l['tit'] = 'HVM设置';
+$l['done'] = '设置成功保存';
 $l['apic'] = 'APIC';
 $l['acpi'] = 'ACPI';
 $l['vnc'] = 'VNC';
-$l['boot_order'] = 'Boot Order';
-$l['isos'] = 'Select ISO';
-$l['none'] = 'None';
-$l['tuntap_enable'] = 'Enable Tun/Tap';
-$l['ppp_enable'] = 'Enable PPP( Point to Point Protocol)';
+$l['boot_order'] = '启动顺序';
+$l['isos'] = '选择ISO';
+$l['none'] = '无';
+$l['tuntap_enable'] = '启用TUN/TAP';
+$l['ppp_enable'] = '启用PPP(点对点协议)';
 
 ?>
