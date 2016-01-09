@@ -26,19 +26,19 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['no_ip_sel'] = 'No IPs selected';
-$l['ip_not_exists'] = 'IPs do not exists';
+$l['no_ip_sel'] = '未选择IP';
+$l['ip_not_exists'] = 'IP不存在';
 
 // Theme strings
-$l['<title>'] = 'IP Information';
-$l['header'] = ' IPs';
-$l['ipinfo'] = 'IP Information';
-$l['reorderips'] = 'Set Primary IP';
-$l['done'] = 'Your IP settings have been saved.';
-$l['change_onboot'] = 'Your IP settings will be changed when the VPS is booted again';
-$l['primary_ip'] = 'Select Primary IP ';
-$l['ipv6_ips_list'] = 'IPV6 IPs';
-$l['ipv6_empty'] = 'IPV6 Empty';
-$l['change_notify'] = 'Changing the IP settings...';
+$l['<title>'] = 'IP信息';
+$l['header'] = ' IP';
+$l['ipinfo'] = 'IP信息';
+$l['reorderips'] = '设置主IP';
+$l['done'] = '已经保存您的IP设置。';
+$l['change_onboot'] = '您的IP设置将在VPS下次启动后应用。';
+$l['primary_ip'] = '选择主IP';
+$l['ipv6_ips_list'] = 'IPv6';
+$l['ipv6_empty'] = 'IPV6空';
+$l['change_notify'] = '正在更改IP设置……';
 
 ?>
