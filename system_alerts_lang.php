@@ -26,6 +26,6 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['<title>'] = 'System Alerts';
+$l['<title>'] = '系统告警';
 
 ?>
