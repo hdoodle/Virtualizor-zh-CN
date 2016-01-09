@@ -26,7 +26,7 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['some_error'] = 'The operation could not be completed';
+$l['some_error'] = '未能成功完成此操作';
 
 $l['<title>'] = '启动VPS';
 $l['page_head'] = '启动VPS';
