@@ -26,27 +26,27 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['usr_page_head'] = 'Users';
-$l['usr_add_user'] = 'Add User';
+$l['usr_page_head'] = '用户';
+$l['usr_add_user'] = '添加用户';
 
 // Error strings
-$l['usr_del_not_allowed'] = 'You are not allowed to delete this user';
-$l['usr_del_conf'] = 'Are you sure you want to delete the User ?';
-$l['usr_no_users'] = 'There are no users';
-$l['usr_user_del'] = 'The User has been deleted';
+$l['usr_del_not_allowed'] = '你不能删除这个用户';
+$l['usr_del_conf'] = '你确定要删除这个用户？';
+$l['usr_no_users'] = '没有用户';
+$l['usr_user_del'] = '用户已删除';
 
 // Theme strings
-$l['<title>'] = 'Users';
-$l['page_head'] = 'Users';
-$l['add_user'] = 'Add User';
+$l['<title>'] = '用户';
+$l['page_head'] = '用户';
+$l['add_user'] = '添加用户';
 
 // Error strings
-$l['del_not_allowed'] = 'You are not allowed to delete this user';
+$l['del_not_allowed'] = '你不能删除这个用户';
 
-$l['del_conf'] = 'Are you sure you want to delete the User ?';
-$l['no_users'] = 'There are no users';
-$l['user_del'] = 'The User has been deleted';
-$l['del_not_allowed_has_vps'] = 'The user has vps(s), please delete those and then delete the user';
+$l['del_conf'] = '你确定要删除这个用户？';
+$l['no_users'] = '没有用户';
+$l['user_del'] = '用户已删除';
+$l['del_not_allowed_has_vps'] = '用户有VPS，请删除这些，然后删除该用户';
 
 
 ?>

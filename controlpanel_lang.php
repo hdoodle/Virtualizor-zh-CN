@@ -26,13 +26,13 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['wrong_panel'] = 'The panel you selected is invalid';
-$l['err_installing'] = 'There was an error installing the Panel';
-$l['wrong_os'] = 'The Control Panel can be installed only on CentOS';
+$l['wrong_panel'] = '您选择的面板无效';
+$l['err_installing'] = '安装面板时出现错误';
+$l['wrong_os'] = '此控制面板只能用于CentOS';
 
-$l['<title>'] = 'Control panels';
-$l['confirm'] = 'Are you sure you want to install this panel ? Data on the server will be altered significantly.';
-$l['done'] = 'The Panel installation has begun and will be completed soon';
-$l['change_onboot'] = 'The Panel will be installed when you shutdown and then start the VPS';
+$l['<title>'] = '控制面板';
+$l['confirm'] = '您是否确定要安装这个控制面板？服务器上的数据将被显著改变。';
+$l['done'] = '面板安装已经开始，将在一段时间后完成';
+$l['change_onboot'] = '面板将在你关机再启动VPS后安装完成';
 
 ?>
