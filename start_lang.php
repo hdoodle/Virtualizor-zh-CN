@@ -28,12 +28,12 @@ if(!defined('VIRTUALIZOR')){
 
 $l['some_error'] = 'The operation could not be completed';
 
-$l['<title>'] = 'Start VPS';
-$l['page_head'] = 'Start VPS';
-$l['done'] = 'The VPS was started successfully';
-$l['sub_but'] = 'Start VPS';
-$l['cur_stat'] = 'Status';
-$l['status_1'] = 'Online';
-$l['status_0'] = 'Offline';
-$l['vps_stop'] = 'Stop';
+$l['<title>'] = '启动VPS';
+$l['page_head'] = '启动VPS';
+$l['done'] = '成功启动VPS';
+$l['sub_but'] = '启动VPS';
+$l['cur_stat'] = '状态';
+$l['status_1'] = '在线';
+$l['status_0'] = '离线';
+$l['vps_stop'] = '停止';
 ?>
