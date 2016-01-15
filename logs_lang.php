@@ -26,11 +26,11 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['<title>'] = 'Logs';
-$l['heading'] = 'Logs';
-$l['date'] = 'Date';
-$l['task'] = 'Task';
-$l['status'] = 'Status';
+$l['<title>'] = '日志';
+$l['heading'] = '日志';
+$l['date'] = '日期';
+$l['task'] = '任务';
+$l['status'] = '状态';
 $l['ip'] = 'IP';
 
 ?>
