@@ -26,20 +26,20 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['recipe_err_exec'] = 'Recipe execution error';
-$l['no_recipe_selected'] = 'No recipe selected';
-$l['wrong_recipe'] = 'Incorrect recipe selected';
+$l['recipe_err_exec'] = '方案执行错误';
+$l['no_recipe_selected'] = '没有选择方案';
+$l['wrong_recipe'] = '不正确的方案选择';
 
 // Theme Strings
-$l['page_head'] = 'Recipes';
-$l['change_final'] = 'Your settings have been save successfully';
-$l['choose_recipe'] = 'Choose Recipe';
-$l['exp_choose_recipe'] = 'Choose the recipe you want to cook';
-$l['update_recipe'] = 'Cook Recipe';
-$l['none'] = 'None';
-$l['done'] = 'Recipe has been cooked';
-$l['exec_rec_onboot'] = 'Recipe will be cooked when you reboot the VPS';
-$l['conf_execute'] = 'Are you sure you want to cook this recipe ?';
-$l['rec_short_desc'] = 'Recipes are predefined bash codes';
+$l['page_head'] = '方案';
+$l['change_final'] = '您的设置已成功保存';
+$l['choose_recipe'] = '选择方案';
+$l['exp_choose_recipe'] = '选择您想要做的方案';
+$l['update_recipe'] = '制作方案';
+$l['none'] = '无';
+$l['done'] = '方案已保存';
+$l['exec_rec_onboot'] = '当您重新启动的VPS方案将被执行';
+$l['conf_execute'] = '你确定你要执行这个方案？';
+$l['rec_short_desc'] = '方案是预先定义的bash代码';
 
 ?>
