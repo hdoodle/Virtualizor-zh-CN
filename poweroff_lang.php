@@ -26,18 +26,18 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['some_error'] = 'The operation could not be completed';
+$l['some_error'] = '未完成操作';
 
-$l['<title>'] = 'Powereoff VPS';
-$l['page_head'] = 'Poweroff VPS';
-$l['done'] = 'The VPS has been Powered Off successfully';
-$l['sub_but'] = 'Poweroff VPS';
-$l['cur_stat'] = 'Status';
-$l['status_1'] = 'Online';
-$l['status_0'] = 'Offline';
-$l['vps_start'] = 'Start';
-$l['vps_restart'] = 'Restart';
-$l['vps_stop'] = 'Stop';
-$l['vps_poweroff'] = 'Power Off';
+$l['<title>'] = '关闭VPS';
+$l['page_head'] = '关闭VPS';
+$l['done'] = '成功关闭VPS';
+$l['sub_but'] = '关闭VPS';
+$l['cur_stat'] = '状态';
+$l['status_1'] = '在线';
+$l['status_0'] = '离线';
+$l['vps_start'] = '启动';
+$l['vps_restart'] = '重启';
+$l['vps_stop'] = '停止';
+$l['vps_poweroff'] = '关机';
 
 ?>

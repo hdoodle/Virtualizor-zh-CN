@@ -26,17 +26,17 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['some_error'] = 'The operation could not be completed';
+$l['some_error'] = '未完成操作';
 
-$l['<title>'] = 'Restart VPS';
-$l['page_head'] = 'Restart VPS';
-$l['done'] = 'The VPS was restarted successfully';
-$l['sub_but'] = 'Restart VPS';
-$l['cur_stat'] = 'Status';
-$l['status_1'] = 'Online';
-$l['status_0'] = 'Offline';
-$l['signal_sent'] = 'The VPS is rebooting';
-$l['vps_restart'] = 'Restart';
-$l['vps_stop'] = 'Stop';
+$l['<title>'] = '重启VPS';
+$l['page_head'] = '重启VPS';
+$l['done'] = '成功重启VPS';
+$l['sub_but'] = '重启VPS';
+$l['cur_stat'] = '状态';
+$l['status_1'] = '在线';
+$l['status_0'] = '离线';
+$l['signal_sent'] = 'VPS正在重启';
+$l['vps_restart'] = '重启';
+$l['vps_stop'] = '停止';
 
 ?>

@@ -26,17 +26,17 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['<title>'] = 'RAM Information';
-$l['header'] = ' RAM';
-$l['raminfo'] = 'RAM Information';
-$l['totalram'] = 'RAM : ';
-$l['gaurateed'] = 'Guaranteed RAM : ';
-$l['burstable'] = 'Burstable';
+$l['<title>'] = '内存信息';
+$l['header'] = ' 内存';
+$l['raminfo'] = '内存信息';
+$l['totalram'] = '内存：';
+$l['gaurateed'] = '保障内存：';
+$l['burstable'] = '突发内存：';
 $l['swap'] = 'SWAP';
-$l['utilised'] = 'Utilised :';
-$l['percentram'] = 'Utilization % :';
-$l['graphheader'] = 'RAM Utilization';
-$l['not_supported'] = 'Current utilization monitoring of this resource is not supported.';
+$l['utilised'] = '已使用 :';
+$l['percentram'] = '使用率 % :';
+$l['graphheader'] = '内存使用率';
+$l['not_supported'] = '不支持此当前资源利用率的监测。';
 
 
 ?>

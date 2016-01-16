@@ -26,20 +26,20 @@ if(!defined('VIRTUALIZOR')){
 
 }
 
-$l['<title>'] = 'List of Processes';
-$l['usr'] = 'User';
+$l['<title>'] = '进程列表';
+$l['usr'] = '用户';
 $l['pid'] = 'PID';
 $l['cpu'] = '%CPU';
 $l['mem'] = '%MEM';
-$l['command'] = 'Command';
+$l['command'] = '命令';
 $l['rss'] = 'RSS';
-$l['time'] = 'time';
-$l['select'] = 'select';
-$l['pstart'] = 'start';
-$l['pkill'] = 'Kill';
-$l['prefresh'] = 'Autorefresh';
-$l['vps_is_off'] = 'The VPS is off !';
-$l['no_feature'] = 'This feature is not available !';
-$l['notice_pkill'] = 'Stopping the selected process(es) :';
+$l['time'] = '实际';
+$l['select'] = '选择';
+$l['pstart'] = '启动';
+$l['pkill'] = '结束';
+$l['prefresh'] = '自动刷新';
+$l['vps_is_off'] = 'VPS关机了！';
+$l['no_feature'] = '这个功能不可用！';
+$l['notice_pkill'] = '正在杀死所选的进程：';
 
 ?>

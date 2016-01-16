@@ -28,7 +28,7 @@ if(!defined('VIRTUALIZOR')){
 
 $l['no_username'] = '您没填用户名';
 $l['no_password'] = '您没填密码';
-$l['too_many_attempts'] = 'You have used up your failed login quota of '.$globals['login_attempts'].' failed attempts! <b>Please wait '.$globals['login_ban_time'].' minutes before trying again.</b> Don\'t forget that the password is case sensitive. Forgotten your password? Please try the <a href="'.$globals['index'].'act=login&sa=fpass">Forgot Password</a> utility.';
+$l['too_many_attempts'] = '你已经用完了你的失败登陆次数限制'.$globals['login_attempts'].'！<b>Please wait '.$globals['login_ban_time'].' minutes before trying again.</b> Don\'t forget that the password is case sensitive. Forgotten your password? Please try the <a href="'.$globals['index'].'act=login&sa=fpass">Forgot Password</a> utility.';
 
 $l['<title>'] = '登录';
 $l['sign_in'] = '登录';
@@ -38,7 +38,7 @@ $l['login'] = '登录';
 $l['sub_but'] = '登录';
 
 $l['<title_fpass>'] = '忘记密码';
-$l['pass_nomatch'] = '您输入的密码好像不太对的样子';
+$l['pass_nomatch'] = '密码不匹配';
 $l['forgotpass'] = '忘记密码';
 $l['emailuser'] = '邮箱';
 $l['enteremail'] = '请输入您的邮箱';
@@ -46,33 +46,33 @@ $l['sub_email'] = '提交';
 $l['no_email'] = '您还没提交邮箱呢';
 $l['invalidemail'] = '您提交的邮箱好像不太对的样子';
 $l['mail_sub'] = '重置密码';
-$l['mail_body'] = 'Hi,
-						
-A request to reset your password has been made.
-If you did not request the password reset, then please ignore this email.
+$l['mail_body'] = '嗨，
 
-If you would like to reset your password, then please click the URL below :
+请求重置您的密码已经取得进展。
+如果您没有要求重设密码，请忽略此电子邮件。
+
+如果您想重置密码，那么请点击以下链接：
 https://{{node_ip}}:4083/index.php?act=login&sa=resetpass&key=&soft-1;
 
-Please Note : Above link is valid for 24 hours only.
+请注意：上面的链接有效期只有24小时。
 
 Regards,
 '.$globals['sn'];
-$l['mail_done'] = 'A mail has been sent with the details to reset your password';
-$l['back_to_login'] = 'Back to Login';
+$l['mail_done'] = '已发送一封邮件用来重设密码';
+$l['back_to_login'] = '返回登陆';
 
-$l['<title_reset>'] = 'Reset Password';
-$l['resetpass'] = 'Reset Password';
-$l['log_new_pass'] = 'New password'; 
-$l['log_reppass'] = 'Confirm Password';
-$l['changepass'] = 'Change Password';
-$l['no_key'] = 'No Reset Key was submitted';
-$l['invalidkey'] = 'You specified an invalid key';
-$l['no_new'] = 'Please enter valid Password';
-$l['no_reppass'] = 'Please enter confirm password';
-$l['no_match'] = 'The passwords you gave do not match';
-$l['keyexpire'] = 'Key is no longer valid';
-$l['passchanged'] = 'Password Changed Successfully. Please proceed to <a href="'.$globals['index'].'act=login">Login</a>';
-$l['forgot_pass'] = 'Forgot Password';
+$l['<title_reset>'] = '重设密码';
+$l['resetpass'] = '重设密码';
+$l['log_new_pass'] = '新密码'; 
+$l['log_reppass'] = '确认密码';
+$l['changepass'] = '更改密码';
+$l['no_key'] = '没有复位键提交';
+$l['invalidkey'] = '指定了无效的密钥';
+$l['no_new'] = '请输入有效密码';
+$l['no_reppass'] = '请输入确认密码';
+$l['no_match'] = '密码不匹配';
+$l['keyexpire'] = '密匙不再有效';
+$l['passchanged'] = '密码修改成功。请继续<a href="'.$globals['index'].'act=login">登录</a>';
+$l['forgot_pass'] = '忘记密码';
 
 ?>
