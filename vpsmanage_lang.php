@@ -85,6 +85,6 @@ $l['tip_bandwidth'] = '查看流量用量';
 $l['tip_rescue'] = '救援模式';
 $l['tip_manage_subnet'] = '添加/删除IPv6地址';
 $l['tip_console'] = '控制台访问';
-$l['tip_recipes'] = '方案面板';
+$l['tip_recipes'] = '菜谱';
 
 ?>
