@@ -193,7 +193,7 @@ $l['vm_lm_status_suspended'] = '已暂停';
 $l['vm_vps_is_suspended'] = '这VPS被暂停。你不能对VPS进行任何操作！';
 $l['vm_suspend_reason_bw'] = '这VPS是由于带宽的过度使用暂停。你不能对VPS进行任何操作！';
 $l['vm_tip_recipe'] = '菜谱';
-$l['vm_lm_recipe'] = '方案';
+$l['vm_lm_recipe'] = '菜谱';
 
 // listvs lang string - prefix : lst_
 $l['lst_virtual_servers'] = '虚拟服务器';
