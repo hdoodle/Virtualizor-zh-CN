@@ -60,7 +60,7 @@ $l['lm_support'] = '技术支持';
 $l['lv_status'] = '状态';
 $l['lm_manage_subnet'] = '管理IPv6子网';
 $l['lm_console'] = '串行控制台';
-$l['lm_recipes'] = '方案';
+$l['lm_recipes'] = '菜谱';
 
 $l['tip_startstop'] = '启动/关闭VPS';
 $l['tip_restart'] = '重启VPS';
