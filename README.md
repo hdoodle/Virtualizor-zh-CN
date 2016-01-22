@@ -6,4 +6,7 @@ Virtualizor是一款强大的虚拟机控制面板，而该项目储存的是该
 支持开源，欢迎Fork&Star
 
 ###翻译人员
+[liwentao0705](https://github.com/liwentao0705)
 
+
+[yang-er](https://github.com/yang-er) -> [Yang-er's Blog](http://www.90yang.com/)
