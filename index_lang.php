@@ -150,13 +150,13 @@ $l['lm_rdns'] = '逆向DNS';
 $l['lm_support'] = '支持';
 
 // Users left menu
-$l['lm_vs'] = '列出VPS';
+$l['lm_vs'] = 'VPS列表';
 $l['lm_addvs'] = '启动实例';
 $l['lm_resources'] = '云资源';
 $l['lm_users'] = '用户';
 $l['lm_usr_settings'] = '设置';
 $l['lm_profile'] = '我的个人信息';
-$l['you_are_admin'] = '您是管理员';
+$l['you_are_admin'] = '您是一位管理员';
 
 // Page Jump Related :
 $l['page_jump_title'] = '输入转到的页数';

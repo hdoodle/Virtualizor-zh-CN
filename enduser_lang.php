@@ -192,8 +192,8 @@ $l['vm_lm_status_offline'] = '离线';
 $l['vm_lm_status_suspended'] = '已暂停';
 $l['vm_vps_is_suspended'] = '这VPS被暂停。你不能对VPS进行任何操作！';
 $l['vm_suspend_reason_bw'] = '这VPS是由于带宽的过度使用暂停。你不能对VPS进行任何操作！';
-$l['vm_tip_recipe'] = '方案面板';
-$l['vm_lm_recipe'] = '方案';
+$l['vm_tip_recipe'] = '菜谱';
+$l['vm_lm_recipe'] = '菜谱';
 
 // listvs lang string - prefix : lst_
 $l['lst_virtual_servers'] = '虚拟服务器';
@@ -1153,21 +1153,21 @@ $l['login_forgot_pass'] = '忘记密码';
 $l['login_goto_login'] = '前往登录页面';
 
 // listrecipe lang string - prefix : recipe_
-$l['recipe_err_exec'] = '方案执行错误';
-$l['recipe_no_selected'] = '没有选择方案';
-$l['recipe_wrong'] = '不正确的方案选择';
-$l['recipe_heading'] = '方案';
-$l['recipe_choose'] = '选择方案';
-$l['recipe_exp_choose_recipe'] = '选择您想要做的方案';
-$l['recipe_update'] = '制作方案';
+$l['recipe_err_exec'] = '菜谱执行错误';
+$l['recipe_no_selected'] = '没有选择菜谱';
+$l['recipe_wrong'] = '不正确的菜谱选择';
+$l['recipe_heading'] = '菜谱';
+$l['recipe_choose'] = '选择菜谱';
+$l['recipe_exp_choose_recipe'] = '选择您想要做的菜谱';
+$l['recipe_update'] = '制作菜谱';
 $l['recipe_none'] = '无';
-$l['recipe_done'] = '方案已保存';
-$l['recipe_exec_onboot'] = '当您重新启动的VPS方案将被执行';
+$l['recipe_done'] = '菜谱已保存';
+$l['recipe_exec_onboot'] = '当您重新启动VPS，菜谱将被执行';
 $l['no_desc'] = '无描述';
 $l['ingredients'] = '配料';
-$l['recipe'] = '方案';
-$l['conf_execute'] = '你确定你要执行这个方案？';
-$l['rec_short_desc'] = '方案是预先定义的bash代码';
+$l['recipe'] = '菜谱';
+$l['conf_execute'] = '你确定你要执行这个菜谱？';
+$l['rec_short_desc'] = '盯~这是为您准备的Bash菜谱！';
 
 // ssh lang string - prefix : ssh_
 $l['ssh_disabled'] = 'SSH被管理员禁用';

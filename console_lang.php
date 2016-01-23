@@ -42,6 +42,6 @@ $l['cs_port'] = '端口';
 $l['cs_username'] = '用户名';
 $l['cs_password'] = '密码';
 $l['cs_destroy'] = '结束会话';
-$l['cs_java_console'] = 'Java命令行';
+$l['cs_java_console'] = 'Java控制台';
 
 ?>
